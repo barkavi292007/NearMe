@@ -151,13 +151,10 @@ Amma Park in Gomathi Nagar,Tiruvallur
 
 ~~~
 ## OUTPUT:
-
-![alt text](bhargavi/mapapp/static/thiruvallur.png)
-
-![alt text](bhargavi/mapapp/static/gym.png)
-
-![alt text](bhargavi/mapapp/static/ground.png)
-
-![alt text](bhargavi/mapapp/static/park2.png)
+![alt text](<bhargavi/mapapp/static/Screenshot (28).png>)
+![alt text](<bhargavi/mapapp/static/Screenshot (30).png>)
+![alt text](<bhargavi/mapapp/static/Screenshot (26).png>)
+![alt text](<bhargavi/mapapp/static/Screenshot (25).png>)
+![alt text](<bhargavi/mapapp/static/Screenshot (29).png>)
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
